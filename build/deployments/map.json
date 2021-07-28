@@ -1,0 +1,38 @@
+{
+  "1337": {
+    "LinkToken": [
+      "0x45586ae3ed46d8d4ADe1727dD7d905dF30E48f41"
+    ],
+    "MockOracle": [
+      "0x2d67D5f35eEaDa1eDBB5dE598668C01DaE2f7744"
+    ],
+    "MockV3Aggregator": [
+      "0xaA3ddf26b17586FD4cfbD3371F32A4C9F9aBB0Ba"
+    ],
+    "PriceFeedConsumer": [
+      "0xF268494EFEf08252475e76A0B364581EE00C43fd"
+    ],
+    "VRFCoordinatorMock": [
+      "0xa7b137511A340F63302Dd2191eCA116E2a877824"
+    ]
+  },
+  "42": {
+    "APIConsumer": [
+      "0x5dC20eE354Bf07225759F2C1aADC75E028B6E079",
+      "0x70ffF7a3146450A98A80635f5Ed9C2083824eE5A",
+      "0x5E220B25663B23D098Bee8F1A1CC2720C93400c1"
+    ],
+    "Counter": [
+      "0x32647D8eCB2268D143DD59301256B3caf74310B0"
+    ],
+    "PriceFeedConsumer": [
+      "0x808E193C0131f8d6910ff84c864079f0EEd64482",
+      "0x84bcFd33d4bB21cd705e3FA450505BaE05c02FdF"
+    ],
+    "VRFConsumer": [
+      "0x7aA854B493cf7DDF2C983c5aa93254bcE379a1a6",
+      "0x90b46fabf988dB5838F55717ca3560120A4a5457",
+      "0x875f63288Ab3497AD31Ea98409eF3EF5a71ef03f"
+    ]
+  }
+}
